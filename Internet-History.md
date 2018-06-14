@@ -82,6 +82,19 @@ http://adresseip.vpndock.com/adresse-de-loopback/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
 ************************************************************************************************************************************************
+Que sont le copyright et le copyleft ?
+
+Copyright >
+is the exclusive and assignable legal right, given to the originator for a fixed number of years, to print, publish, perform, film, or record literary, artistic, or musical material. One can't use it without permission of the owner.
+https://qph.ec.quoracdn.net/main-qimg-05260ff3080d17cfc37f40c4c1c02f77
+
+Copyleft >
+ is an arrangement whereby software or artistic work may be used, modified, and distributed freely on condition that anything derived from it is bound by the same conditions of rights. Derived work also can be used freely by others.
+https://qph.ec.quoracdn.net/main-qimg-873575d31fc87dc230ba0442475672d0
+
+les sources:
+https://www.quora.com/What-is-the-difference-between-copyleft-and-copyright
 
 
+*************************************************************************************************************************************************
 
