@@ -49,7 +49,9 @@ http://adresseip.vpndock.com/wp-content/uploads/domaine-adresse-ip-windows.jpg
 
 les sources:
 https://fr.wikipedia.org/wiki/Google_Public_DNS
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 2/     192.168.0.1
 
 L’adresse IP 192.168.1.1 ou 192.168.0.1 est une adresse de réseau local, c’est l’adresse d’une machine situé sur ce réseau local, qui peut être un ordinateur ou un box Internet. Cette adresse IP n’est accessible que sur le réseau local. L’adresse IP est non routable sur Internet, on ne peut y accéder que par le réseau local.
@@ -70,6 +72,7 @@ les sources:
 http://adresseip.vpndock.com/masque-sous-reseau/
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 4/     127.0.0.1
 
  Il s’agit d’une adresse de loopback. Un rebouclage, loopback ou loop-back (de l’anglais signifiant « boucle arrière ») est une interface virtuelle d’un périphérique connecté à un réseau. Ainsi, quand il la contacte il « boucle » sur lui-même. C’est une adresse IP non routable, c’est à dire que l’on peut accéder depuis Internet, ni même depuis le réseau local, a contrario de l’adresse IP 192.168.0.1 similaire, qui elle n’est pas routable sur Internet, mais routable sur un réseau local.
@@ -82,6 +85,7 @@ http://adresseip.vpndock.com/adresse-de-loopback/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
 ************************************************************************************************************************************************
+
 Que sont le copyright et le copyleft ?
 
 Copyright >
@@ -97,6 +101,7 @@ https://www.quora.com/What-is-the-difference-between-copyleft-and-copyright
 
 
 *************************************************************************************************************************************************
+
 Que sont les Creatives Commons ?
 
 -Creative Commons (CC) est une association à but non lucratif dont la finalité est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, ne protègent aucun ou seulement quelques droits relatifs aux oeuvres. Le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) est plus restrictif.
@@ -107,18 +112,34 @@ https://creativecommons.org/wp-content/uploads/2016/05/global_affiliates_map.png
 les sources:
 https://fr.wikipedia.org/wiki/Creative_Commons
 https://creativecommons.org/about/
+
 *************************************************************************************************************************************************
+
 Qui est Grace Hopper ?
 
 Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/480px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg
 les sources:
 https://fr.wikipedia.org/wiki/Grace_Hopper
+
 *************************************************************************************************************************************************
+
 Qu'est-ce que Qwant ?
 Qwant est un moteur de recherche français. Créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013, il annonce ne pas tracer ses utilisateurs ni vendre leurs données personnelles afin de garantir leur vie privée et se veut neutre dans l'affichage des résultats.
 https://www.qwant.com/?l=fr
 les sources:
 https://fr.wikipedia.org/wiki/Qwant
+
+*************************************************************************************************************************************************
+
+Qui est Steve Wozniak ?
+
+Stephen Gary Wozniak, dit Steve Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
+
+Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Steve_Wozniak.jpg/220px-Steve_Wozniak.jpg
+
+les sources:
+https://fr.wikipedia.org/wiki/Steve_Wozniak
 *************************************************************************************************************************************************
 
