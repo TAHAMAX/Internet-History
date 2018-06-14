@@ -14,7 +14,10 @@ The Internet as we know it today first started being developed in the late 1960'
 In the summer of 1968, the Network Working Group (NWG) held its first meeting, chaired by Elmer Shapiro, at the Stanford Research Institute (SRI). Other attendees included Steve Carr, Steve Crocker, Jeff Rulifson, and Ron Stoughton. In the meeting, the group discussed solving issues related to getting hosts to communicate with each other.
 
 https://www.computerhope.com/issues/ch001016.htm
+
+
 /////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 Quelle est la différence entre le Web et Internet ?
 
