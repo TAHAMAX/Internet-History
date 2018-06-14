@@ -16,7 +16,7 @@ In the summer of 1968, the Network Working Group (NWG) held its first meeting, c
 https://www.computerhope.com/issues/ch001016.htm
 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////
+************************************************************************************************************************************************
 
 
 Quelle est la différence entre le Web et Internet ?
@@ -30,6 +30,58 @@ Le Web a été inventé par Tim Berners-Lee et Robert Cailliau plusieurs années
 Source : 
 1.Wikipédia
 2.https://fondationlitterairefleurdelys.wordpress.com/2014/03/11/quelle-est-la-difference-entre-linternet-et-le-web/
+
+************************************************************************************************************************************************
+
+Qu’est-ce que cela :
+
+ 1/    8.8.8.8
+
+Google Public DNS est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet. Il a été annoncé le 9 décembre 20091.
+
+Les adresses IP anycast des serveurs sont les suivantes :
+
+    IPv4 : 8.8.8.8 et 8.8.4.4
+    IPv6 : 2001:4860:4860::8888 et 2001:4860:4860::88442
+
+
+http://adresseip.vpndock.com/wp-content/uploads/domaine-adresse-ip-windows.jpg
+
+les sources:
+https://fr.wikipedia.org/wiki/Google_Public_DNS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2/     192.168.0.1
+
+L’adresse IP 192.168.1.1 ou 192.168.0.1 est une adresse de réseau local, c’est l’adresse d’une machine situé sur ce réseau local, qui peut être un ordinateur ou un box Internet. Cette adresse IP n’est accessible que sur le réseau local. L’adresse IP est non routable sur Internet, on ne peut y accéder que par le réseau local.
+Nous avons vu que les routeurs prennent généralement par défaut l’adresse 192.168.0.1 (ou 192.168.1.1). Ces routeurs sont la plupart du temps configurables par une interface web accessible à l’adresse http://192.168.0.1 (ou http://192.168.1.1). Il suffit de taper cette adresse dans la barre URL de votre navigateur. Pour connaitre l’adresse IP de votre box :
+http://adresseip.vpndock.com/wp-content/uploads/192.168.1.1.png
+
+les sources:
+http://adresseip.vpndock.com/c-est-quoi-192-168-1-1/
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3/     255.255.255.0
+
+Masque sous-réseau
+Un masque de sous-réseau est un séparateur qui permet de distinguer les parties réseau et machine d’une adresse IP. Un sous-réseau est une subdivision logique d’un réseau de taille plus importante. Le masque de sous-réseau permet ainsi de distinguer la partie de l’adresse utilisée pour le routage et celle utilisable pour numéroter des interfaces. Un sous-réseau correspond typiquement à un réseau local sous-jacent. 
+http://adresseip.vpndock.com/wp-content/uploads/masque-sous-reseau.jpg
+les sources:
+http://adresseip.vpndock.com/masque-sous-reseau/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4/     127.0.0.1
+
+ Il s’agit d’une adresse de loopback. Un rebouclage, loopback ou loop-back (de l’anglais signifiant « boucle arrière ») est une interface virtuelle d’un périphérique connecté à un réseau. Ainsi, quand il la contacte il « boucle » sur lui-même. C’est une adresse IP non routable, c’est à dire que l’on peut accéder depuis Internet, ni même depuis le réseau local, a contrario de l’adresse IP 192.168.0.1 similaire, qui elle n’est pas routable sur Internet, mais routable sur un réseau local.
+http://adresseip.vpndock.com/wp-content/uploads/adresse-de-loopback.jpg
+
+les sources:
+http://adresseip.vpndock.com/adresse-de-loopback/
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   
+************************************************************************************************************************************************
 
 
 
