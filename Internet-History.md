@@ -141,5 +141,28 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Steve_Wozniak.jpg/220p
 
 les sources:
 https://fr.wikipedia.org/wiki/Steve_Wozniak
+
 *************************************************************************************************************************************************
+
+-le bug informatique
+Le mot bug signifie "insecte" en américain.
+
+-En informatique, un bug (mot anglais bug) ou bogue (au Nouveau-Brunswick, au Québec1 et en Francenote 1) est un défaut de conception d'un programme informatique à l'origine d'un dysfonctionnement.
+
+La gravité du dysfonctionnement peut aller de bénigne (défauts d’affichage mineurs) à majeure (crash système pouvant entraîner de graves accidents : par exemple, l'explosion du Vol 501 d'Ariane 5).
+
+Un bug peut résider dans un logiciel applicatif, dans les logiciels tiers utilisés par ce logiciel applicatif, voire dans le firmware d'un composant matériel comme ce fut le cas du bug de la division du Pentium2. Un patch (terme francisé en « retouche » ou « correctif »)3 est un morceau de logiciel destiné à corriger un ou plusieurs bugs.
+
+exemple de bug informatique>
+https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg
+https://images.itnewsinfo.com/lmi/articles/grande/000000048142.png
+http://www.xanetiz.com/images/articles/bugs-connus-histoire1.png
+https://cours-informatique-gratuit.fr/wp-content/uploads/2014/05/blue-screen.png
+
+les sources:
+http://www.baluchiterium.net/bug.php
+https://fr.wikipedia.org/wiki/Bug_(informatique)
+
+*************************************************************************************************************************************************
+
 
