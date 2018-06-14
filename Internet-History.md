@@ -97,4 +97,28 @@ https://www.quora.com/What-is-the-difference-between-copyleft-and-copyright
 
 
 *************************************************************************************************************************************************
+Que sont les Creatives Commons ?
+
+-Creative Commons (CC) est une association à but non lucratif dont la finalité est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, ne protègent aucun ou seulement quelques droits relatifs aux oeuvres. Le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) est plus restrictif.
+
+-Creative Commons (“CC”) is an international, multi-stakeholder nonprofit organization. CC is diversely-funded by individuals, foundations, corporations, governments, and other institutions and agencies. CC accepts general operating support as well as program-specific funding for specific projects and initiatives. CC’s contributions policy is intended to encourage funding of CC while make clear that we will uphold the following principles and manifest them in all cash and in-kind funding agreements:
+https://creativecommons.org/wp-content/uploads/2016/05/global_affiliates_map.png
+
+les sources:
+https://fr.wikipedia.org/wiki/Creative_Commons
+https://creativecommons.org/about/
+*************************************************************************************************************************************************
+Qui est Grace Hopper ?
+
+Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/480px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg
+les sources:
+https://fr.wikipedia.org/wiki/Grace_Hopper
+*************************************************************************************************************************************************
+Qu'est-ce que Qwant ?
+Qwant est un moteur de recherche français. Créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013, il annonce ne pas tracer ses utilisateurs ni vendre leurs données personnelles afin de garantir leur vie privée et se veut neutre dans l'affichage des résultats.
+https://www.qwant.com/?l=fr
+les sources:
+https://fr.wikipedia.org/wiki/Qwant
+*************************************************************************************************************************************************
 
