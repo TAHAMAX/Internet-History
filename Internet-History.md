@@ -59,7 +59,8 @@ https://fr.wikipedia.org/wiki/Google_Public_DNS
 2/     192.168.0.1
 
 L’adresse IP 192.168.1.1 ou 192.168.0.1 est une adresse de réseau local, c’est l’adresse d’une machine situé sur ce réseau local, qui peut être un ordinateur ou un box Internet. Cette adresse IP n’est accessible que sur le réseau local. L’adresse IP est non routable sur Internet, on ne peut y accéder que par le réseau local.
-Nous avons vu que les routeurs prennent généralement par défaut l’adresse 192.168.0.1 (ou 192.168.1.1). Ces routeurs sont la plupart du temps configurables par une interface web accessible à l’adresse http://192.168.0.1 (ou http://192.168.1.1). Il suffit de taper cette adresse dans la barre URL de votre navigateur. Pour connaitre l’adresse IP de votre box :
+Nous avons vu que les routeurs prennent généralement par défaut l’adresse 192.168.0.1 (ou 192.168.1.1). Ces routeurs sont la plupart du temps configurables par une interface web accessible à l’adresse http://192.168.0.1 (ou http://192.168.1.1). 
+
 http://adresseip.vpndock.com/wp-content/uploads/192.168.1.1.png
 
 les sources:
@@ -68,6 +69,7 @@ http://adresseip.vpndock.com/c-est-quoi-192-168-1-1/
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 3/     255.255.255.0
 
 Masque sous-réseau
@@ -84,6 +86,7 @@ http://adresseip.vpndock.com/masque-sous-reseau/
 4/     127.0.0.1
 
  Il s’agit d’une adresse de loopback. Un rebouclage, loopback ou loop-back (de l’anglais signifiant « boucle arrière ») est une interface virtuelle d’un périphérique connecté à un réseau. Ainsi, quand il la contacte il « boucle » sur lui-même. C’est une adresse IP non routable, c’est à dire que l’on peut accéder depuis Internet, ni même depuis le réseau local, a contrario de l’adresse IP 192.168.0.1 similaire, qui elle n’est pas routable sur Internet, mais routable sur un réseau local.
+
 http://adresseip.vpndock.com/wp-content/uploads/adresse-de-loopback.jpg
 
 les sources:
@@ -99,10 +102,12 @@ Que sont le copyright et le copyleft ?
 
 Copyright >
 is the exclusive and assignable legal right, given to the originator for a fixed number of years, to print, publish, perform, film, or record literary, artistic, or musical material. One can't use it without permission of the owner.
+
 https://qph.ec.quoracdn.net/main-qimg-05260ff3080d17cfc37f40c4c1c02f77
 
 Copyleft >
  is an arrangement whereby software or artistic work may be used, modified, and distributed freely on condition that anything derived from it is bound by the same conditions of rights. Derived work also can be used freely by others.
+
 https://qph.ec.quoracdn.net/main-qimg-873575d31fc87dc230ba0442475672d0
 
 les sources:
@@ -117,6 +122,7 @@ Que sont les Creatives Commons ?
 -Creative Commons (CC) est une association à but non lucratif dont la finalité est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, ne protègent aucun ou seulement quelques droits relatifs aux oeuvres. Le droit d'auteur (ou « copyright » dans les pays du Commonwealth et aux États-Unis) est plus restrictif.
 
 -Creative Commons (“CC”) is an international, multi-stakeholder nonprofit organization. CC is diversely-funded by individuals, foundations, corporations, governments, and other institutions and agencies. CC accepts general operating support as well as program-specific funding for specific projects and initiatives. CC’s contributions policy is intended to encourage funding of CC while make clear that we will uphold the following principles and manifest them in all cash and in-kind funding agreements:
+
 https://creativecommons.org/wp-content/uploads/2016/05/global_affiliates_map.png
 
 les sources:
@@ -141,8 +147,11 @@ https://fr.wikipedia.org/wiki/Grace_Hopper
 
 Qu'est-ce que Qwant ?
 Qwant est un moteur de recherche français. Créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013, il annonce ne pas tracer ses utilisateurs ni vendre leurs données personnelles afin de garantir leur vie privée et se veut neutre dans l'affichage des résultats.
+
 https://www.qwant.com/?l=fr
+
 les sources:
+
 https://fr.wikipedia.org/wiki/Qwant
 
 *************************************************************************************************************************************************
@@ -152,6 +161,7 @@ Qui est Steve Wozniak ?
 Stephen Gary Wozniak, dit Steve Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
 
 Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
+
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Steve_Wozniak.jpg/220px-Steve_Wozniak.jpg
 
 les sources:
