@@ -27,8 +27,11 @@ Le web est l’ensemble des sites web.
 Le web utilise la plupart du temps Internet pour fonctionner.
 
 Le Web a été inventé par Tim Berners-Lee et Robert Cailliau plusieurs années après Internet, mais c’est lui qui a rendu les médias grand public attentifs à Internet. Depuis, le Web est fréquemment confondu avec Internet ; en particulier, le mot Toile est souvent utilisé dans les textes non techniques sans qu’il désigne clairement le Web ou Internet. 
+
 Source : 
+
 1.Wikipédia
+
 2.https://fondationlitterairefleurdelys.wordpress.com/2014/03/11/quelle-est-la-difference-entre-linternet-et-le-web/
 
 ************************************************************************************************************************************************
@@ -48,6 +51,7 @@ Les adresses IP anycast des serveurs sont les suivantes :
 http://adresseip.vpndock.com/wp-content/uploads/domaine-adresse-ip-windows.jpg
 
 les sources:
+
 https://fr.wikipedia.org/wiki/Google_Public_DNS
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,6 +63,7 @@ Nous avons vu que les routeurs prennent généralement par défaut l’adresse 1
 http://adresseip.vpndock.com/wp-content/uploads/192.168.1.1.png
 
 les sources:
+
 http://adresseip.vpndock.com/c-est-quoi-192-168-1-1/
 
 
@@ -67,8 +72,11 @@ http://adresseip.vpndock.com/c-est-quoi-192-168-1-1/
 
 Masque sous-réseau
 Un masque de sous-réseau est un séparateur qui permet de distinguer les parties réseau et machine d’une adresse IP. Un sous-réseau est une subdivision logique d’un réseau de taille plus importante. Le masque de sous-réseau permet ainsi de distinguer la partie de l’adresse utilisée pour le routage et celle utilisable pour numéroter des interfaces. Un sous-réseau correspond typiquement à un réseau local sous-jacent. 
+
 http://adresseip.vpndock.com/wp-content/uploads/masque-sous-reseau.jpg
+
 les sources:
+
 http://adresseip.vpndock.com/masque-sous-reseau/
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -79,6 +87,7 @@ http://adresseip.vpndock.com/masque-sous-reseau/
 http://adresseip.vpndock.com/wp-content/uploads/adresse-de-loopback.jpg
 
 les sources:
+
 http://adresseip.vpndock.com/adresse-de-loopback/
 
 
@@ -97,6 +106,7 @@ Copyleft >
 https://qph.ec.quoracdn.net/main-qimg-873575d31fc87dc230ba0442475672d0
 
 les sources:
+
 https://www.quora.com/What-is-the-difference-between-copyleft-and-copyright
 
 
@@ -110,7 +120,9 @@ Que sont les Creatives Commons ?
 https://creativecommons.org/wp-content/uploads/2016/05/global_affiliates_map.png
 
 les sources:
+
 https://fr.wikipedia.org/wiki/Creative_Commons
+
 https://creativecommons.org/about/
 
 *************************************************************************************************************************************************
@@ -118,8 +130,11 @@ https://creativecommons.org/about/
 Qui est Grace Hopper ?
 
 Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
+
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/480px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg
+
 les sources:
+
 https://fr.wikipedia.org/wiki/Grace_Hopper
 
 *************************************************************************************************************************************************
@@ -140,6 +155,7 @@ Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayn
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Steve_Wozniak.jpg/220px-Steve_Wozniak.jpg
 
 les sources:
+
 https://fr.wikipedia.org/wiki/Steve_Wozniak
 
 *************************************************************************************************************************************************
@@ -154,15 +170,47 @@ La gravité du dysfonctionnement peut aller de bénigne (défauts d’affichage 
 Un bug peut résider dans un logiciel applicatif, dans les logiciels tiers utilisés par ce logiciel applicatif, voire dans le firmware d'un composant matériel comme ce fut le cas du bug de la division du Pentium2. Un patch (terme francisé en « retouche » ou « correctif »)3 est un morceau de logiciel destiné à corriger un ou plusieurs bugs.
 
 exemple de bug informatique>
+
 https://upload.wikimedia.org/wikipedia/commons/8/8a/H96566k.jpg
+
 https://images.itnewsinfo.com/lmi/articles/grande/000000048142.png
+
 http://www.xanetiz.com/images/articles/bugs-connus-histoire1.png
+
 https://cours-informatique-gratuit.fr/wp-content/uploads/2014/05/blue-screen.png
 
 les sources:
+
 http://www.baluchiterium.net/bug.php
+
 https://fr.wikipedia.org/wiki/Bug_(informatique)
 
 *************************************************************************************************************************************************
+!!!!
+
+Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+
+Google Developer Group Toulouse
+Le GDG Toulouse est un groupe d'échange et de partage autour du développement logiciel à Toulouse.
+
+example developer web site 
+
+https://louvet.pro/competences.html
+
+http://www.xavierthevenot.com/
+
+http://hbpom.fr/
+
+
+www.xavierthevenot.com
+
+http://www.developpeur-web-tlse.fr/
+
+
+les sources:
+http://www.gdgtoulouse.fr/
+
+*************************************************************************************************************************************************
+
 
 
